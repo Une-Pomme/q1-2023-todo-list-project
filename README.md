@@ -1,4 +1,4 @@
-# React Router Project
+# To Do List Project
 This is the project built for the "Section 27: React and Typescript" section of Oak Academy's "Typescript & React JS Course with React & Typescript Project" Udemy course.
 
 ## What I got out of this project
